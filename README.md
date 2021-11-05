@@ -115,6 +115,9 @@ C'est une manière de diviser le code pour :
 
 https://fr.wikipedia.org/wiki/Mod%C3%A8le-vue-contr%C3%B4leur
 
+`/model` 
+
+Ce dossier contiendra la gestion des données
 
 ## Virtualhost
 
